@@ -11,7 +11,6 @@ class: center, middle
 
 - Point 3.
 
-.center[![Image](uneImage.png)]
 ---
 
 ## Titre Slide 2
@@ -21,5 +20,4 @@ class: center, middle
 
 - Point 3.
 
-.center[![Image](uneImage.png)]
 ---
